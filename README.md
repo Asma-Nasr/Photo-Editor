@@ -1,7 +1,7 @@
 # Photo Editor
 
 This repository contains my implementation of the Photo Editor task, where the goal is to create a basic photo editor that can modify properties of an image such as brightness, contrast, and greyscale.
-provided by Intern2Grow as part of their Data Analyst Virtual Internship Program.
+provided by Intern2Grow as part of their Image Processing Virtual Internship Program.
 ## Task Overview
 
 In this task, I developed a program that allows users to edit specific properties of an image. The features implemented include:
